@@ -1,0 +1,60 @@
+body {
+  margin: 20px;
+  max-width: 800px;
+  padding: 30px 10px;
+  border: 2px solid #398596;
+  border-radius: 15px;
+  background: linear-gradient(-225deg, #fffeff 0%, #d7fffe);
+  background-size: 840px;
+  background-repeat: no-repeat;
+}
+h1,
+h2,
+h3 {
+  font-family: "Exo 2", sans-serif;
+  color: #222831;
+}
+h1 {
+  margin-top: 10px;
+}
+
+h3 {
+  padding-top: 30px;
+}
+ul {
+  list-style: none;
+}
+li {
+  font-family: "Exo 2", sans-serif;
+  margin: 6px;
+  color: #393e46;
+  font-size: 18px;
+}
+
+p {
+  font-family: "Open Sans", sans-serif;
+}
+.col {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 18px;
+  text-align: center;
+}
+.col-2 {
+  font-size: 18px;
+  padding: 10px;
+}
+.current-img {
+  padding: 10px;
+}
+.form-row {
+  color: #398596;
+  font-family: "Open Sans", sans-serif;
+}
+.five-days {
+  font-family: "Open Sans", sans-serif;
+  color: #393e46;
+}
+
+#degree {
+  font-size: 32px;
+}
