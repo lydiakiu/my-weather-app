@@ -1,12 +1,12 @@
 body {
-  margin: 20px;
-  max-width: 800px;
-  padding: 30px 10px;
-  border: 2px solid #398596;
-  border-radius: 15px;
   background: linear-gradient(-225deg, #fffeff 0%, #d7fffe);
   background-size: 840px;
   background-repeat: no-repeat;
+  margin: 20px;
+  max-width: 800px;
+  padding: 30px 10px 5px;
+  border: 2px solid #398596;
+  border-radius: 15px;
 }
 h1,
 h2,
@@ -34,6 +34,7 @@ li {
 p {
   font-family: "Open Sans", sans-serif;
 }
+
 .col {
   font-family: "Open Sans", sans-serif;
   font-weight: 18px;
@@ -53,6 +54,10 @@ p {
 .five-days {
   font-family: "Open Sans", sans-serif;
   color: #393e46;
+}
+.footnote {
+  font-size: 12px;
+  font-family: "Open Sans", sans-serif;
 }
 
 #degree {
